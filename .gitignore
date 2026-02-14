@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 忽略的文件和目录
+venv/
+__pycache__/
+merged_links.txt
